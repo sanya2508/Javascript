@@ -8,3 +8,4 @@
 
      `};`
 
+* ### Window is the parent object of document, alert, prompt.  etc.
