@@ -25,8 +25,13 @@
   
   <hr/>
 
-### Changing Styles:
+* ## Changing Styles:
  * style.{property} //okay
  * className // best
  * classList `(.add, .remove, .toggle)` // best
  * innerHTML // dangerous
+
+<hr/>
+
+### <a href="https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes">JavaScript Char Codes (Key Codes)
+### <a href="https://developer.mozilla.org/en-US/docs/Web/Events">Event Reference</a>
