@@ -23,13 +23,13 @@
   * getAttribute
   * setAttribute
   
-  <hr/>
+ <hr/>
 
 * ## Changing Styles:
- * style.{property} //okay
- * className // best
- * classList `(.add, .remove, .toggle)` // best
- * innerHTML // dangerous
+  * style.{property} //okay
+  * className // best
+  * classList `(.add, .remove, .toggle)` // best
+  * innerHTML // dangerous
 
 <hr/>
 
