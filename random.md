@@ -17,11 +17,30 @@
 * ### Compose is act of putting two functions together to form a third function with the output of one function as the input of the other.
 
 * ### Two elements of a pure function:
-        1. Deterministic --> always produces the same results given the same inputs.
-        2. No Side Effects -->  It does not depend on any state, or data, change during a program’s execution. It must only depend on its input elements.
+      1. Deterministic --> always produces the same results given the same inputs.
+      2. No Side Effects -->  It does not depend on any state, or data, change during a program’s execution. It must only depend on its input elements.
 
 * ### map, filter, reduce in array.
 
 * ### <a href="https://sdras.github.io/array-explorer/">Explore array methods</a>
+* ### <a href="https://sdras.github.io/object-explorer/">Explore object methods</a>
 
-* ### 
+* ### Reference type: `(reason why [] === [] gives false.)`
+     ![img](2021-01-02.png)
+
+* ### <a href="https://towardsdatascience.com/javascript-context-this-keyword-9a78a19d5786">Context</a>
+
+* ### <a href="https://medium.com/@taylorshephard1/instantiation-patterns-in-javascript-7f9463b95839#:~:text=An%20instantiation%20pattern%20in%20JavaScript,Prototypical%2C%20Pseudoclassical%2C%20and%20ES6.">Instantiation</a>
+
+* ### Pass by value and Pass by reference
+   * Objects in JavaScript are stored in memory and passed by reference.
+       * Arrays are simply objects. (passed by ref.).
+   * Primitive type are passed by value. (Just make a copy).
+   
+* ### Type Coercion:
+   * Type coercion is the process of converting value from one type to another (such as string to number, object to boolean, and so on).
+   * In JavaScript, type coercion happens when we use `==`.
+   * <a href="https://dorey.github.io/JavaScript-Equality-Table/">Type Coercion Table</a>
+   * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">MDN - Equality Comparisons</a>
+   
+   
