@@ -22,3 +22,10 @@
   * .trimEnd()
   * .fromEntries()
   * try and catch block.
+
+<hr/>
+
+## ES 11 or ES2020
+  * Bigint //new type
+  * Optional Chaining Operator ?.
+  * Nullish Coalescing Operator ??
