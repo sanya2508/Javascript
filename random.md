@@ -42,5 +42,9 @@
    * In JavaScript, type coercion happens when we use `==`.
    * <a href="https://dorey.github.io/JavaScript-Equality-Table/">Type Coercion Table</a>
    * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">MDN - Equality Comparisons</a>
+
+* ### Loops:
+   * for of `iterating: arrays and strings`
+   * for in `enumerating: objects`
    
    
