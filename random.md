@@ -17,8 +17,8 @@
 * ### Compose is act of putting two functions together to form a third function with the output of one function as the input of the other.
 
 * ### Two elements of a pure function:
-      1. Deterministic --> always produces the same results given the same inputs.
-      2. No Side Effects -->  It does not depend on any state, or data, change during a program’s execution. It must only depend on its input elements.
+    1. Deterministic --> always produces the same results given the same inputs.
+    2. No Side Effects -->  It does not depend on any state, or data, change during a program’s execution. It must only depend on its input elements.
 
 * ### map, filter, reduce in array.
 
