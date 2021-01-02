@@ -47,4 +47,9 @@
    * for of `iterating: arrays and strings`
    * for in `enumerating: objects`
    
+<hr/>
+
+* ### <a href="https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde">JavaScript Modules</a>
+    ![modules](modules.png)
+
    
