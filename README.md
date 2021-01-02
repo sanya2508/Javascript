@@ -20,6 +20,8 @@
 
 `7. Object`
 
+`8. BigInt`
+
 
 
 ## Javascript Comparisons:
