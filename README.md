@@ -79,6 +79,10 @@
 
 `forEach (new in ECMAScript 5)` 
 
+`for of (ES6)`
+
+`for in (ES6)`
+
 
 ## JAVASCRIPT KEYWORDS
 
